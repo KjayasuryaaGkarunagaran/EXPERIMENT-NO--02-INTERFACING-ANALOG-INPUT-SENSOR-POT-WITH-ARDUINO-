@@ -114,12 +114,10 @@ serial monitor graph:
 
 
 
-[My image](username.github.com/repository/img/image.jpg)
 
 
 
 
 
-
-
-**RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
+**RESULT:**
+Arduino uno analog input functioning is learned and interfaced with digital input switch .
